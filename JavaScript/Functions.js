@@ -8,3 +8,12 @@ function returnSmallest(a, b) {
 }
 
 // Add your functions below this line :) ------------------------------------
+
+
+function returnLargest(a, b) {
+    if(a > b) {
+        return a
+    } else {
+        return b
+    }
+}
